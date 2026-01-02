@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ilyass
+# Hi 👋 I'm Ilysk
 
 💻 Self-taught Web Developer  
 ⚛️ Learning React & modern JavaScript  
@@ -46,14 +46,6 @@ Check out my repositories to follow my learning journey.
 - Master JavaScript fundamentals  
 - Build real, useful web applications  
 - Continue growing as a **self-taught engineer**
-
----
-
-## 📫 Contact
-
-- GitHub: **@IlyassK**
-
-I'm always open to feedback, collaboration, and learning from others.
 
 ---
 
